@@ -57,6 +57,7 @@ The screenshots and wallpaper above are the supplied originals. Screen size, des
 | `install.sh` / `scripts/install.py` | One-command installer, validation, backup and restore using the exported repository files |
 | `rose-room-apply.py` | Original installer for applying this selection to existing configs, with backup and restore |
 | `selection.txt` | Original exported preview choices |
+| `LICENSE` | The Unlicense (public domain) |
 | `assets/screenshots/` | Kitty and RMPC screenshots |
 | `assets/wallpapers/rose-room-sunset.png` | Original wallpaper |
 
@@ -186,6 +187,10 @@ RMPC's tab row uses the native Tabs pane with mouse support enabled. Music, tags
 - The one-command installer passed isolated fresh-install, existing-install, check-only, repeated-install, exact-restore, newer-edit protection, malformed-config and missing-dependency checks. Those tests used real RMPC 0.11.0 parsing and simulated Kitty/CAVA/font availability; no desktop settings were changed.
 - Kitty's effective exported settings were compared with the source settings. A native Kitty GUI launch, live playback, desktop image rendering and CAVA operation were not tested in the packaging environment.
 - Some values in `selection.txt` describe the HTML preview (CSS pixels, backdrop and preview sizing). The native configs are the installation source of truth.
+
+## License
+
+The configuration files and scripts are released into the public domain under [The Unlicense](LICENSE). The wallpaper image in `assets/wallpapers/` is not covered by this license; its rights remain with its original creator.
 
 ## رفع الملفات على GitHub
 
