@@ -8,7 +8,7 @@
     background_color: None,
     text_color: Some("#E9D9E2"),
     header_background_color: None,
-    modal_background_color: Some("#281923"),
+    modal_background_color: Some("#21151D"),
     modal_backdrop: false,
     preview_label_style: (fg: "#C74D82"),
     preview_metadata_group_style: (fg: "#B6A5BA", modifiers: "Bold"),
