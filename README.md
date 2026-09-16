@@ -191,9 +191,3 @@ RMPC's tab row uses the native Tabs pane with mouse support enabled. Music, tags
 ## License
 
 The configuration files and scripts are released into the public domain under [The Unlicense](LICENSE). The wallpaper image in `assets/wallpapers/` is not covered by this license; its rights remain with its original creator.
-
-## رفع الملفات على GitHub
-
-فك ضغط الحزمة، ثم ارفع **محتويات مجلد `rose-room-sunset`** إلى جذر المستودع. سيظهر هذا الـ README مع الصور تلقائيًا لأن الروابط نسبية. الحزمة تخص آخر اختيار: **Sunset Rose، شفافية 45%، تبويبات Kitty بالأسفل، وصورة الألبوم الكبيرة في RMPC**.
-
-للتثبيت السهل استخدم `bash install.sh`، وللتراجع `bash install.sh --restore`. يجب توفر البرامج والخط وإعداد MPD مسبقًا. طريقة النسخ اليدوي والسكربت الأصلي موجودة كخيارات إضافية. الحزمة مبنية على الملفات التي أرسلتها وآخر سكربت تطبيق؛ أي تعديلات إضافية على جهازك تحتاج تضيفها بنفسك للمستودع.
