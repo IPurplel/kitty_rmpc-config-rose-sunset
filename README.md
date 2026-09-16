@@ -12,7 +12,7 @@ Download and extract this repository, open a terminal in its folder, then run:
 bash install.sh
 ```
 
-**التطبيق بأمر واحد:** فك الضغط، افتح الطرفية داخل المجلد، وشغّل الأمر أعلاه. المثبّت يفحص المتطلبات، يأخذ نسخة احتياطية، ويطبق إعدادات Kitty وRMPC. لو الإعدادات غير موجودة ينشئها، ولو موجودة يحافظ على اتصال MPD واختصارات RMPC.
+**One-command setup:** extract the files, open a terminal inside the folder, and run the command above. The installer checks the requirements, takes a backup, and applies the Kitty and RMPC settings. If the config files don't exist, it creates them; if they already exist, it keeps your MPD connection and RMPC keybindings.
 
 To undo this installer:
 
