@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.log
+*.bak
+*.swp
+.env
+.DS_Store
+rose-room-backups/
+assets/screenshots/fastfetch.png

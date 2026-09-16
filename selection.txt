@@ -1,0 +1,33 @@
+ROSE ROOM — Kitty + RMPC preview choice
+
+Palette: SUNSET ROSE
+Palette inspiration: User supplied 05-cinematic-rose(3).png; adjusted for readable text
+Background: #281923
+Foreground: #E9D9E2
+Accent: #c74d82
+ANSI blue / color4: #B6A5BA
+Selection: #563348
+Transparency: 45%
+Kitty background_opacity: 0.55
+Kitty tab_bar_style: separator
+Kitty tab_bar_edge: bottom
+Kitty cursor_shape: underline
+RMPC layout proposal: cinema
+Text size preview: large
+Borders: normal
+CAVA bars: fine
+CAVA preview height: 150
+Backdrop preview: night
+Kitty tab_bar_margin_height: 12 12
+Cover preview limit: 290 CSS px (not a native RMPC size setting)
+CAVA: shown
+RMPC navigation: native horizontal tabs
+
+This is a design selection, not an installable configuration.
+Demo controls, sample data and CSS layout are approximate.
+MPD audio, actual album art and FIFO still require testing on the host.
+Custom uploaded images are not included in this text export.
+
+Sources:
+https://sw.kovidgoyal.net/kitty/conf/#tab-bar
+https://github.com/mierak/rmpc/tree/v0.11.0/src/ui/panes
